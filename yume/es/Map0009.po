@@ -46,7 +46,7 @@ msgstr "                    ★Flauta★"
 
 #. ID 22, Page 2, Line 4, Pos (15,17)
 msgid "                       Neon"
-msgstr "                     ★Neon★"
+msgstr "                     ★Neón★"
 
 #. ID 23, Page 2, Line 4, Pos (16,20)
 msgid "                 Faceless Ghost"
