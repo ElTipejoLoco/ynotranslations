@@ -1,0 +1,776 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yume Nikki 0.10a\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: ElTipejoLoco\n"
+"Language-Team: ElTipejoLoco <ElTipejoLoco@gmail.com>\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.3.2\n"
+
+#. ID 1
+msgctxt "actors.name"
+msgid "Madotsuki"
+msgstr "Madotsuki"
+
+#. ID 1
+#. ID 2
+msgctxt "items.name"
+msgid "Frog"
+msgstr "Rana"
+
+#. ID 1
+#. ID 2
+msgctxt "items.description"
+msgid "Transform into a frog."
+msgstr "Transformate en rana."
+
+#. ID 3
+#. ID 4
+msgctxt "items.name"
+msgid "Umbrella"
+msgstr "Paraguas"
+
+#. ID 3
+#. ID 4
+msgctxt "items.description"
+msgid "Use an umbrella."
+msgstr "Usa un paraguas."
+
+#. ID 5
+#. ID 6
+msgctxt "items.name"
+msgid "Hat & Scarf"
+msgstr "Gorra & Bufanda"
+
+#. ID 5
+#. ID 6
+msgctxt "items.description"
+msgid "Don a hat & scarf."
+msgstr "Viste gorra & bufanda."
+
+#. ID 7
+#. ID 8
+msgctxt "items.name"
+msgid "Snow Woman"
+msgstr "Mujer de Nieve"
+
+#. ID 7
+#. ID 8
+msgctxt "items.description"
+msgid "Morph into a Snow Woman."
+msgstr "Conviertete en Mujer de Nieve."
+
+#. ID 9
+#. ID 10
+msgctxt "items.name"
+msgid "Kitchen Knife"
+msgstr "Cuchillo de Cocina"
+
+#. ID 9
+#. ID 10
+msgctxt "items.description"
+msgid "Equip a kitchen knife."
+msgstr "Equipa un cuchillo de cocina."
+
+#. ID 11
+#. ID 12
+msgctxt "items.name"
+msgid "Eye Palm"
+msgstr "Ojo en Palma"
+
+#. ID 11
+#. ID 12
+msgctxt "items.description"
+msgid "Warp into an Eye Palm."
+msgstr "Transportate dentro de un Ojo en Palma."
+
+#. ID 13
+#. ID 14
+msgctxt "items.name"
+msgid "Fatten"
+msgstr "Engordar"
+
+#. ID 13
+#. ID 14
+msgctxt "items.description"
+msgid "Balloon in size."
+msgstr "Inflate en tamaño."
+
+#. ID 15
+#. ID 16
+msgctxt "items.name"
+msgid "Midget"
+msgstr "Enana"
+
+#. ID 15
+#. ID 16
+msgctxt "items.description"
+msgid "Shrink in size."
+msgstr "Encogete en tamaño."
+
+#. ID 17
+#. ID 18
+msgctxt "items.name"
+msgid "Flute"
+msgstr "Flauta"
+
+#. ID 17
+#. ID 18
+msgctxt "items.description"
+msgid "Brandish a flute."
+msgstr "Silba en una flauta."
+
+#. ID 19
+#. ID 20
+msgctxt "items.name"
+msgid "Neon"
+msgstr "Neon"
+
+#. ID 19
+#. ID 20
+msgctxt "items.description"
+msgid "Glow like a neon sign."
+msgstr "Brilla como letrero de neon."
+
+#. ID 21
+#. ID 22
+msgctxt "items.name"
+msgid "Faceless Ghost"
+msgstr "Fantasma sin Cara"
+
+#. ID 21
+#. ID 22
+msgctxt "items.description"
+msgid "Materialize as a faceless ghost."
+msgstr "Materializate como fantasma sin cara."
+
+#. ID 23
+#. ID 24
+msgctxt "items.name"
+msgid "Severed Head"
+msgstr "Cabeza Decapitada"
+
+#. ID 23
+#. ID 24
+msgctxt "items.description"
+msgid "Be reduced to a severed head."
+msgstr "Sé reducida a una cabeza decapitada."
+
+#. ID 25
+#. ID 26
+msgctxt "items.name"
+msgid "Towel"
+msgstr "Toalla"
+
+#. ID 25
+#. ID 26
+msgctxt "items.description"
+msgid "Wrap yourself in a towel."
+msgstr "Envuelvete en una toalla."
+
+#. ID 27
+#. ID 28
+msgctxt "items.name"
+msgid "Cat"
+msgstr "Gata"
+
+#. ID 27
+#. ID 28
+msgctxt "items.description"
+msgid "Sprout cat-ears and a tail."
+msgstr "Crece orejas y cola de gata."
+
+#. ID 29
+#. ID 30
+msgctxt "items.name"
+msgid "Lamp"
+msgstr "Lámpara"
+
+#. ID 29
+#. ID 30
+msgctxt "items.description"
+msgid "Change into a lamp."
+msgstr "Cambiate a una lámpara."
+
+#. ID 31
+#. ID 32
+msgctxt "items.name"
+msgid "Bicycle"
+msgstr "Bicicleta"
+
+#. ID 31
+#. ID 32
+msgctxt "items.description"
+msgid "Mount a bicycle."
+msgstr "Monta a una bicicleta."
+
+#. ID 33
+#. ID 34
+msgctxt "items.name"
+msgid "Long Hair"
+msgstr "Pelo Largo"
+
+#. ID 33
+#. ID 34
+msgctxt "items.description"
+msgid "Grow long hair."
+msgstr "Crece pelo largo."
+
+#. ID 35
+#. ID 36
+msgctxt "items.name"
+msgid "Poo Hair"
+msgstr "Pelo de Popo"
+
+#. ID 35
+#. ID 36
+msgctxt "items.description"
+msgid "Grow poo hair."
+msgstr "Crece pelo de popo."
+
+#. ID 37
+#. ID 38
+msgctxt "items.name"
+msgid "Blonde"
+msgstr "Rubia"
+
+#. ID 37
+#. ID 38
+msgctxt "items.description"
+msgid "Grow long blonde hair."
+msgstr "Crece pelo largo rubio."
+
+#. ID 39
+#. ID 40
+msgctxt "items.name"
+msgid "Spirit Headband"
+msgstr "Venda Espiritual"
+
+#. ID 39
+#. ID 40
+msgctxt "items.description"
+msgid "Put on a Spirit Headband."
+msgstr "Ponte una Venda Espiritual."
+
+#. ID 41
+#. ID 42
+msgctxt "items.name"
+msgid "Witch"
+msgstr "Bruja"
+
+#. ID 41
+#. ID 42
+msgctxt "items.description"
+msgid "Become a witch incarnate."
+msgstr "Vuelvete bruja encarnada."
+
+#. ID 43
+#. ID 44
+msgctxt "items.name"
+msgid "Oni"
+msgstr "Oni"
+
+#. ID 43
+#. ID 44
+msgctxt "items.description"
+msgid "Reconstitute as an oni."
+msgstr "Reconstituyete como una oni."
+
+#. ID 45
+#. ID 46
+msgctxt "items.name"
+msgid "Squish-Squish"
+msgstr "Squish-Squish"
+
+#. ID 45
+#. ID 46
+msgctxt "items.description"
+msgid "Change into a squishy blob."
+msgstr "Vuelvete una baba aplastable."
+
+#. ID 47
+#. ID 48
+msgctxt "items.name"
+msgid "Traffic Light"
+msgstr "Semáforo"
+
+#. ID 47
+#. ID 48
+msgctxt "items.description"
+msgid "Change into a traffic light."
+msgstr "Cambiate a un semáforo."
+
+#. ID 57
+msgctxt "items.name"
+msgid "Tutorial"
+msgstr "Tutorial"
+
+#. ID 57
+msgctxt "items.description"
+msgid "Review the game's tutorial."
+msgstr "Revisa el tutorial del juego."
+
+msgctxt "terms.special_combat"
+msgid "æ§UŒ‚‚Ìƒ`ƒƒƒ“ƒXI"
+msgstr "æ§UŒ‚‚Ìƒ`ƒƒƒ“ƒXI"
+
+msgctxt "terms.escape_failure"
+msgid "“¦‚°Ø‚ê‚È‚©‚Á‚½I"
+msgstr "“¦‚°Ø‚ê‚È‚©‚Á‚½I"
+
+msgctxt "terms.victory"
+msgid "í‚¢‚ÉŸ‚Á‚½I"
+msgstr "í‚¢‚ÉŸ‚Á‚½I"
+
+msgctxt "terms.defeat"
+msgid "•‰‚¯‚Ä‚µ‚Ü‚Á‚½EEE"
+msgstr "•‰‚¯‚Ä‚µ‚Ü‚Á‚½EEE"
+
+msgctxt "terms.exp_received"
+msgid "‚ÌŒoŒ±’l‚ðŠl“¾I"
+msgstr "‚ÌŒoŒ±’l‚ðŠl“¾I"
+
+msgctxt "terms.gold_recieved_a"
+msgid "‚¨‹à‚ð"
+msgstr "お金を"
+
+msgctxt "terms.gold_recieved_b"
+msgid "Žè‚É“ü‚ê‚½I"
+msgstr "Žè‚É“ü‚ê‚½I"
+
+msgctxt "terms.item_recieved"
+msgid "‚ðŽè‚É“ü‚ê‚½I"
+msgstr "‚ðŽè‚É“ü‚ê‚½I"
+
+msgctxt "terms.attacking"
+msgid "‚ÌUŒ‚I"
+msgstr "‚ÌUŒ‚I"
+
+msgctxt "terms.enemy_critical"
+msgid "‰ïS‚ÌˆêŒ‚II"
+msgstr "‰ïS‚ÌˆêŒ‚II"
+
+msgctxt "terms.actor_critical"
+msgid "’É¦‚ÌˆêŒ‚II"
+msgstr "’É¦‚ÌˆêŒ‚II"
+
+msgctxt "terms.defending"
+msgid "‚Íg‚ðŽç‚Á‚Ä‚¢‚éI"
+msgstr "‚Íg‚ðŽç‚Á‚Ä‚¢‚éI"
+
+msgctxt "terms.observing"
+msgid "‚Í—lŽq‚ðŒ©‚Ä‚¢‚éEEE"
+msgstr "‚¨‹à‚ð"
+
+msgctxt "terms.focus"
+msgid "‚Í—Í‚ð‚½‚ß‚Ä‚¢‚éEEE"
+msgstr "‚Í—Í‚ð‚½‚ß‚Ä‚¢‚éEEE"
+
+msgctxt "terms.autodestruction"
+msgid "‚ÍŽ©”š‚µ‚½I"
+msgstr "‚ÍŽ©”š‚µ‚½I"
+
+msgctxt "terms.enemy_escape"
+msgid "‚Í“¦‚°‚Ä‚µ‚Ü‚Á‚½I"
+msgstr "‚Í“¦‚°‚Ä‚µ‚Ü‚Á‚½I"
+
+msgctxt "terms.enemy_transform"
+msgid "‚ÍŽp‚ð•Ï‚¦‚½I"
+msgstr "‚ÍŽp‚ð•Ï‚¦‚½I"
+
+msgctxt "terms.enemy_damaged"
+msgid "‚Ìƒ_ƒ[ƒW‚ð—^‚¦‚½I"
+msgstr "‚Ìƒ_ƒ[ƒW‚ð—^‚¦‚½I"
+
+msgctxt "terms.enemy_undamaged"
+msgid "‚Éƒ_ƒ[ƒW‚ð—^‚¦‚ç‚ê‚È‚¢I"
+msgstr "‚Éƒ_ƒ[ƒW‚ð—^‚¦‚ç‚ê‚È‚¢I"
+
+msgctxt "terms.actor_damaged"
+msgid "‚Ìƒ_ƒ[ƒW‚ðŽó‚¯‚½I"
+msgstr "‚Ìƒ_ƒ[ƒW‚ðŽó‚¯‚½I"
+
+msgctxt "terms.actor_undamaged"
+msgid "‚Íƒ_ƒ[ƒW‚ðŽó‚¯‚Ä‚¢‚È‚¢I"
+msgstr "‚Íƒ_ƒ[ƒW‚ðŽó‚¯‚Ä‚¢‚È‚¢I"
+
+msgctxt "terms.skill_failure_a"
+msgid "‚É‚ÍŒø‚©‚È‚©‚Á‚½I"
+msgstr "‚É‚ÍŒø‚©‚È‚©‚Á‚½I"
+
+msgctxt "terms.skill_failure_b"
+msgid "‚Í•½‹C‚¾‚Á‚½I"
+msgstr "‚Í•½‹C‚¾‚Á‚½I"
+
+msgctxt "terms.skill_failure_c"
+msgid "‚Í–°‚ç‚È‚©‚Á‚½I"
+msgstr "‚Í–°‚ç‚È‚©‚Á‚½I"
+
+msgctxt "terms.dodge"
+msgid "‚ÍUŒ‚‚ð‚©‚í‚µ‚½I"
+msgstr "‚ÍUŒ‚‚ð‚©‚í‚µ‚½I"
+
+msgctxt "terms.use_item"
+msgid "‚ðŽg‚Á‚½I"
+msgstr "‚ðŽg‚Á‚½I"
+
+msgctxt "terms.hp_recovery"
+msgid "‰ñ•œ‚µ‚½I"
+msgstr "‰ñ•œ‚µ‚½I"
+
+msgctxt "terms.parameter_increase"
+msgid "ã‚ª‚Á‚½I"
+msgstr "ã‚ª‚Á‚½I"
+
+msgctxt "terms.parameter_decrease"
+msgid "‰º‚ª‚Á‚½I"
+msgstr "‰º‚ª‚Á‚½I"
+
+msgctxt "terms.enemy_hp_absorbed"
+msgid "’D‚Á‚½I"
+msgstr "’D‚Á‚½I"
+
+msgctxt "terms.actor_hp_absorbed"
+msgid "’D‚í‚ê‚½I"
+msgstr "’D‚í‚ê‚½I"
+
+msgctxt "terms.resistance_increase"
+msgid "‚É‹­‚­‚È‚Á‚½I"
+msgstr "‚É‹­‚­‚È‚Á‚½I"
+
+msgctxt "terms.resistance_decrease"
+msgid "‚ÉŽã‚­‚È‚Á‚½I"
+msgstr "‚ÉŽã‚­‚È‚Á‚½I"
+
+msgctxt "terms.level_up"
+msgid "‚É‚È‚Á‚½I"
+msgstr "‚É‚È‚Á‚½I"
+
+msgctxt "terms.skill_learned"
+msgid "‚ðŠo‚¦‚½I"
+msgstr "‚ðŠo‚¦‚½I"
+
+msgctxt "terms.shop_greeting1"
+msgid "u‚¢‚ç‚Á‚µ‚á‚¢‚Ü‚¹v"
+msgstr "u‚¢‚ç‚Á‚µ‚á‚¢‚Ü‚¹v"
+
+msgctxt "terms.shop_regreeting1"
+msgid "u‚Ù‚©‚É‚²—pŒ‚Í‚²‚´‚¢‚Ü‚·‚©Hv"
+msgstr "u‚Ù‚©‚É‚²—pŒ‚Í‚²‚´‚¢‚Ü‚·‚©Hv"
+
+msgctxt "terms.shop_buy1"
+msgid "w“ü‚·‚é"
+msgstr "w“ü‚·‚é"
+
+msgctxt "terms.shop_sell1"
+msgid "”„‹p‚·‚é"
+msgstr "”„‹p‚·‚é"
+
+msgctxt "terms.shop_leave1"
+msgid "‚â‚ß‚é"
+msgstr "‚â‚ß‚é"
+
+msgctxt "terms.shop_buy_select1"
+msgid "u‰½‚ð‚¨”ƒ‚¢ã‚°‚É‚È‚è‚Ü‚·‚©Hv"
+msgstr "u‰½‚ð‚¨”ƒ‚¢ã‚°‚É‚È‚è‚Ü‚·‚©Hv"
+
+msgctxt "terms.shop_buy_number1"
+msgid "u‚¢‚­‚Â‚¨”ƒ‚¢ã‚°‚É‚È‚è‚Ü‚·‚©Hv"
+msgstr "u‚¢‚­‚Â‚¨”ƒ‚¢ã‚°‚É‚È‚è‚Ü‚·‚©Hv"
+
+msgctxt "terms.shop_purchased1"
+msgid "u–ˆ“x‚ ‚è‚ª‚Æ‚¤‚²‚´‚¢‚Ü‚·v"
+msgstr "u–ˆ“x‚ ‚è‚ª‚Æ‚¤‚²‚´‚¢‚Ü‚·v"
+
+msgctxt "terms.shop_sell_select1"
+msgid "u‰½‚ð‚¨”„‚è‚É‚È‚è‚Ü‚·‚©Hv"
+msgstr "u‰½‚ð‚¨”„‚è‚É‚È‚è‚Ü‚·‚©Hv"
+
+msgctxt "terms.shop_sell_number1"
+msgid "u‚¢‚­‚Â‚¨”„‚è‚É‚È‚è‚Ü‚·‚©Hv"
+msgstr "u‚¢‚­‚Â‚¨”„‚è‚É‚È‚è‚Ü‚·‚©Hv"
+
+msgctxt "terms.shop_sold1"
+msgid "u–ˆ“x‚ ‚è‚ª‚Æ‚¤‚²‚´‚¢‚Ü‚·v"
+msgstr "u–ˆ“x‚ ‚è‚ª‚Æ‚¤‚²‚´‚¢‚Ü‚·v"
+
+msgctxt "terms.shop_greeting2"
+msgid "u‚¢‚ç‚Á‚µ‚á‚¢I@¡“ú‚Í‚Ç‚ñ‚È—p‚¾‚¢Hv"
+msgstr "u‚¢‚ç‚Á‚µ‚á‚¢I@¡“ú‚Í‚Ç‚ñ‚È—p‚¾‚¢Hv"
+
+msgctxt "terms.shop_regreeting2"
+msgid "u‚Ù‚©‚É‚à—p‚ª‚ ‚é‚©‚¢Hv"
+msgstr "u‚Ù‚©‚É‚à—p‚ª‚ ‚é‚©‚¢Hv"
+
+msgctxt "terms.shop_buy2"
+msgid "w“ü‚·‚é"
+msgstr "w“ü‚·‚é"
+
+msgctxt "terms.shop_sell2"
+msgid "”„‹p‚·‚é"
+msgstr "”„‹p‚·‚é"
+
+msgctxt "terms.shop_leave2"
+msgid "‚â‚ß‚é"
+msgstr "‚â‚ß‚é"
+
+msgctxt "terms.shop_buy_select2"
+msgid "u‰½‚ð”ƒ‚¤‚ñ‚¾‚¢Hv"
+msgstr "u‰½‚ð”ƒ‚¤‚ñ‚¾‚¢Hv"
+
+msgctxt "terms.shop_buy_number2"
+msgid "u‚¢‚­‚Â”ƒ‚¤‚ñ‚¾‚¢Hv"
+msgstr "u‚¢‚­‚Â”ƒ‚¤‚ñ‚¾‚¢Hv"
+
+msgctxt "terms.shop_purchased2"
+msgid "u‚ ‚è‚ª‚Æ‚æ‚ÁIv"
+msgstr "u‚ ‚è‚ª‚Æ‚æ‚ÁIv"
+
+msgctxt "terms.shop_sell_select2"
+msgid "u‰½‚ð”„‚é‚ñ‚¾‚¢Hv"
+msgstr "u‰½‚ð”„‚é‚ñ‚¾‚¢Hv"
+
+msgctxt "terms.shop_sell_number2"
+msgid "u‚¢‚­‚Â”„‚é‚ñ‚¾‚¢Hv"
+msgstr "u‚¢‚­‚Â”„‚é‚ñ‚¾‚¢Hv"
+
+msgctxt "terms.shop_sold2"
+msgid "u‚ ‚è‚ª‚Æ‚æ‚ÁIv"
+msgstr "u‚ ‚è‚ª‚Æ‚æ‚ÁIv"
+
+msgctxt "terms.shop_greeting3"
+msgid "u‚±‚ñ‚É‚¿‚ÍB‚Ç‚ñ‚È‚²—p‚Å‚·‚©Hv"
+msgstr "u‚±‚ñ‚É‚¿‚ÍB‚Ç‚ñ‚È‚²—p‚Å‚·‚©Hv"
+
+msgctxt "terms.shop_regreeting3"
+msgid "u‚Ù‚©‚É‚à‚²—p‚ª‚ ‚è‚Ü‚·‚©Hv"
+msgstr "u‚Ù‚©‚É‚à‚²—p‚ª‚ ‚è‚Ü‚·‚©Hv"
+
+msgctxt "terms.shop_buy3"
+msgid "w“ü‚·‚é"
+msgstr "w“ü‚·‚é"
+
+msgctxt "terms.shop_sell3"
+msgid "”„‹p‚·‚é"
+msgstr "”„‹p‚·‚é"
+
+msgctxt "terms.shop_leave3"
+msgid "‚â‚ß‚é"
+msgstr "‚â‚ß‚é"
+
+msgctxt "terms.shop_buy_select3"
+msgid "u‰½‚ð”ƒ‚Á‚Ä‚­‚ê‚Ü‚·‚©Hv"
+msgstr "u‰½‚ð”ƒ‚Á‚Ä‚­‚ê‚Ü‚·‚©Hv"
+
+msgctxt "terms.shop_buy_number3"
+msgid "u‚¢‚­‚Â”ƒ‚Á‚Ä‚­‚ê‚Ü‚·‚©Hv"
+msgstr "u‚¢‚­‚Â”ƒ‚Á‚Ä‚­‚ê‚Ü‚·‚©Hv"
+
+msgctxt "terms.shop_purchased3"
+msgid "u‚Ç‚¤‚à‚ ‚è‚ª‚Æ‚¤v"
+msgstr "u‚Ç‚¤‚à‚ ‚è‚ª‚Æ‚¤v"
+
+msgctxt "terms.shop_sell_select3"
+msgid "u‰½‚ð”„‚Á‚Ä‚­‚ê‚Ü‚·‚©Hv"
+msgstr "u‰½‚ð”„‚Á‚Ä‚­‚ê‚Ü‚·‚©Hv"
+
+msgctxt "terms.shop_sell_number3"
+msgid "u‚¢‚­‚Â”„‚Á‚Ä‚­‚ê‚Ü‚·‚©Hv"
+msgstr "u‚¢‚­‚Â”„‚Á‚Ä‚­‚ê‚Ü‚·‚©Hv"
+
+msgctxt "terms.shop_sold3"
+msgid "u‚Ç‚¤‚à‚ ‚è‚ª‚Æ‚¤v"
+msgstr "u‚Ç‚¤‚à‚ ‚è‚ª‚Æ‚¤v"
+
+msgctxt "terms.inn_a_greeting_1"
+msgid "uh”‘—¿‹à‚Í"
+msgstr "uh”‘—¿‹à‚Í"
+
+msgctxt "terms.inn_a_greeting_2"
+msgid "‚É‚È‚è‚Ü‚·B"
+msgstr "‚É‚È‚è‚Ü‚·B"
+
+msgctxt "terms.inn_a_greeting_3"
+msgid "@‚¨”‘‚Ü‚è‚É‚È‚è‚Ü‚·‚©Hv"
+msgstr "@‚¨”‘‚Ü‚è‚É‚È‚è‚Ü‚·‚©Hv"
+
+msgctxt "terms.inn_a_accept"
+msgid "”‘‚Ü‚é"
+msgstr "”‘‚Ü‚é"
+
+msgctxt "terms.inn_a_cancel"
+msgid "”‘‚Ü‚ç‚È‚¢"
+msgstr "”‘‚Ü‚ç‚È‚¢"
+
+msgctxt "terms.inn_b_greeting_1"
+msgid "uˆê”‘"
+msgstr "uˆê”‘"
+
+msgctxt "terms.inn_b_greeting_2"
+msgid "‚¾‚ª"
+msgstr "‚¾‚ª"
+
+msgctxt "terms.inn_b_greeting_3"
+msgid "@”‘‚Ü‚Á‚Ä‚¢‚­‚©‚¢Hv"
+msgstr "@”‘‚Ü‚Á‚Ä‚¢‚­‚©‚¢Hv"
+
+msgctxt "terms.inn_b_accept"
+msgid "”‘‚Ü‚é"
+msgstr "”‘‚Ü‚é"
+
+msgctxt "terms.inn_b_cancel"
+msgid "”‘‚Ü‚ç‚È‚¢"
+msgstr "”‘‚Ü‚ç‚È‚¢"
+
+msgctxt "terms.possessed_items"
+msgid "ŠŽ”"
+msgstr "ŠŽ”"
+
+msgctxt "terms.equipped_items"
+msgid "‘•”õ”"
+msgstr "‘•”õ”"
+
+msgctxt "terms.gold"
+msgid "\\"
+msgstr "¥"
+
+msgctxt "terms.command_attack"
+msgid "UŒ‚"
+msgstr "UŒ‚"
+
+msgctxt "terms.command_defend"
+msgid "–hŒä"
+msgstr "–hŒä"
+
+msgctxt "terms.command_item"
+msgid "Effect"
+msgstr "Efecto"
+
+msgctxt "terms.menu_quit"
+msgid "Quit Game"
+msgstr "Parar Juego"
+
+msgctxt "terms.new_game"
+msgid "New Game"
+msgstr "Nueva Jornada"
+
+msgctxt "terms.load_game"
+msgid "Dream Diary"
+msgstr "Díario de Sueños"
+
+msgctxt "terms.exit_game"
+msgid "Quit"
+msgstr "Parar"
+
+msgctxt "terms.lvl_short"
+msgid "E"
+msgstr "E"
+
+msgctxt "terms.hp_short"
+msgid "$k"
+msgstr "$k"
+
+msgctxt "terms.save_game_message"
+msgid "Write in Diary"
+msgstr "Escribir en Díario"
+
+msgctxt "terms.load_game_message"
+msgid "Read Diary"
+msgstr "Leer Díario"
+
+msgctxt "terms.file"
+msgid "Page"
+msgstr "Página"
+
+msgctxt "terms.exit_game_message"
+msgid "Do you want to quit?"
+msgstr "¿Quiéres parar?"
+
+msgctxt "terms.yes"
+msgid "Yes"
+msgstr "Sí"
+
+msgctxt "terms.no"
+msgid "No"
+msgstr "No"
+
+msgctxt "terms.easyrpg_item_number_separator"
+msgid "default_term"
+msgstr "default_term"
+
+msgctxt "terms.easyrpg_skill_cost_separator"
+msgid "default_term"
+msgstr "default_term"
+
+msgctxt "terms.easyrpg_equipment_arrow"
+msgid "default_term"
+msgstr "default_term"
+
+msgctxt "terms.easyrpg_status_scene_name"
+msgid "default_term"
+msgstr "default_term"
+
+msgctxt "terms.easyrpg_status_scene_class"
+msgid "default_term"
+msgstr "default_term"
+
+msgctxt "terms.easyrpg_status_scene_title"
+msgid "default_term"
+msgstr "default_term"
+
+msgctxt "terms.easyrpg_status_scene_condition"
+msgid "default_term"
+msgstr "default_term"
+
+msgctxt "terms.easyrpg_status_scene_front"
+msgid "default_term"
+msgstr "default_term"
+
+msgctxt "terms.easyrpg_status_scene_back"
+msgid "default_term"
+msgstr "default_term"
+
+msgctxt "terms.easyrpg_order_scene_confirm"
+msgid "default_term"
+msgstr "default_term"
+
+msgctxt "terms.easyrpg_order_scene_redo"
+msgid "default_term"
+msgstr "default_term"
+
+msgctxt "terms.easyrpg_battle2k3_double_attack"
+msgid "default_term"
+msgstr "default_term"
+
+msgctxt "terms.easyrpg_battle2k3_defend"
+msgid "default_term"
+msgstr "default_term"
+
+msgctxt "terms.easyrpg_battle2k3_observe"
+msgid "default_term"
+msgstr "default_term"
+
+msgctxt "terms.easyrpg_battle2k3_charge"
+msgid "default_term"
+msgstr "default_term"
+
+msgctxt "terms.easyrpg_battle2k3_selfdestruct"
+msgid "default_term"
+msgstr "default_term"
+
+msgctxt "terms.easyrpg_battle2k3_escape"
+msgid "default_term"
+msgstr "default_term"
+
+msgctxt "terms.easyrpg_battle2k3_skill"
+msgid "default_term"
+msgstr "default_term"
+
+msgctxt "terms.easyrpg_battle2k3_item"
+msgid "default_term"
+msgstr "default_term"
