@@ -1,0 +1,29 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yume Nikki 0.10a\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: ElTipejoLoco <ElTipejoLoco@gmail.com>\n"
+"Language-Team: ElTipejoLoco <ElTipejoLoco@gmail.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.4\n"
+
+#. ID 19, Page 2, Line 5, Pos (12,16)
+msgid "                     Get fat"
+msgstr "                     Fatten"
+
+#. ID 21, Page 2, Line 4, Pos (14,19)
+msgid "                     Whistle"
+msgstr "                     Flute"
+
+#. ID 24, Page 2, Line 4, Pos (18,20)
+msgid "                    Talking Head"
+msgstr "                   Severed Head"
+
+#. ID 35, Page 2, Line 4, Pos (17,12)
+msgid "                      Devil"
+msgstr "                       Oni"
